@@ -1,2 +1,1 @@
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Mario player life game which can't go below 0 and can not the exceed value 10. It can increase or descrease only and can be reseted
